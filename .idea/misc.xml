@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/drawable/ic_hot_deal.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/drawable/ic_java.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/drawable/ic_python.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/drawable/ic_unity5.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/layout/activity_course_page.xml" value="0.22" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/layout/activity_order_page.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/layout/category_item.xml" value="0.6" />
+        <entry key="..\:/Users/user1/AndroidStudioProjects/ECommerce/app/src/main/res/layout/course_item.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
